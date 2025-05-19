@@ -1,1 +1,1 @@
-# Codsoft-tasks
+# Music player app
